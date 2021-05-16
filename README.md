@@ -23,9 +23,8 @@
 
 ## 评论区
 
-### 你的名字
-
-你想说的话, 例如 "这是一个平平无奇的 Pull Request".
+### Jason Z
+"这是一个平平无奇的 Pull Request".
 
 ### OrangeX5
 
